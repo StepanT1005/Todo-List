@@ -2,8 +2,8 @@
 
 active link http://vibrant-wright-3507d0.netlify.app/
 The tech stack is:
+<div>
 <ul>
-
     <li>ES6</li>
     
     <li>React</li>
@@ -22,6 +22,7 @@ The tech stack is:
 
     <li>Sass (Scss)</li>
 </ul>
+</div>
 
 For deploy the project - DEV:
 Build algorithm

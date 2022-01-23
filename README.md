@@ -1,30 +1,28 @@
-TO DO List
-Watch
+<h1>TO DO List</h1>
 
-active link
+active link http://vibrant-wright-3507d0.netlify.app/
 The tech stack is:
+<ul>
 
-ES6
+    <li>ES6</li>
+    
+    <li>React</li>
 
-React
+    <li>Redux</li>
 
-Redux
+    <li>RestAPI</li>
 
-mockAPI
+    <li>Webpack</li>
 
-Babel
+    <li>ESLint</li>
 
-Webpack
+    <li>HTML5</li>
 
-ESLint
+    <li>CSS3</li>
 
-HTML5
+    <li>Sass (Scss)</li>
+</ul>
 
-CSS3
-
-Flexbox
-
-Sass (Scss)
 For deploy the project - DEV:
 Build algorithm
 
@@ -40,5 +38,3 @@ Build algorithm
 Author:
 
 Stepan Tulaidan
-
-Link http://vibrant-wright-3507d0.netlify.app/

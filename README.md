@@ -5,21 +5,13 @@ The tech stack is:
 <div>
 <ul>
     <li>ES6</li>
-    
     <li>React</li>
-
     <li>Redux</li>
-
     <li>RestAPI</li>
-
     <li>Webpack</li>
-
     <li>ESLint</li>
-
     <li>HTML5</li>
-
     <li>CSS3</li>
-
     <li>Sass (Scss)</li>
 </ul>
 </div>

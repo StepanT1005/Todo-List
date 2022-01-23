@@ -30,4 +30,4 @@ Build algorithm
 
 Author:
 
-Stepan Tulaidan
+<h2>Stepan Tulaidan</h2>
